@@ -18,7 +18,7 @@ This gives you automatic CI/CD builds every time you push changes to GitHub.
 Run the following commands in your terminal inside `/Users/dawoodayoobshiekh/Desktop/mehnoor'sPortfolio`:
 
 ```bash
-git remote add origin https://github.com/MehnoorRafiqi18/mehnoor-portfolio.git
+git remote add origin https://github.com/MehnoorRafiqi18/portfolio.git
 git branch -M main
 git push -u origin main
 ```
